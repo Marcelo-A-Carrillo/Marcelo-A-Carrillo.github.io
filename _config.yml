@@ -1,0 +1,21 @@
+# Site settings
+title: Marcelo A Carrillo
+header-img: img/home-bg.png
+email: marceloacarrillo@gmail.com
+copyright_name: Marcelo-A-Carrillo
+description: > # this means to ignore newlines until "baseurl:"
+  My Journey from Motion Graphics Artist to a Web Developer
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  Marcelo-A-Carrillo
+learn_profile: Marcelo-A-Carrillo
+email_username: marceloacarrillo@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
