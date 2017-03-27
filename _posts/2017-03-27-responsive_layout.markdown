@@ -17,6 +17,8 @@ As a Developer our job is to may sure we provide the information the best way po
 
 There are different type of libraries available and techniques that we can implement to speed up the workflow. Some of them will work better than others, but in order to fit my needs I used HTML5 then I used Bootstrap which a great CSS and JavaScript Library. This Library (Boostrap) is very popular and most important is very stable and flexible. If  I want to change the color or position for a picture I go to tge Cascading Style Sheet (CSS) file and modified the code in there.
 
-As you can imagine there are different type of ways to find  a  solution to the problem of responsive layout. They key is to find the best solution possible that will fit your needs and can be flexible enough that you can mantain changes as it need it.
+As you can imagine there are different type of ways to find  a  solution to the problem of responsive layout. 
+
+The key is to find the best solution possible that will fit your needs and can be flexible enough that you can mantain changes as it need it.
 
 
