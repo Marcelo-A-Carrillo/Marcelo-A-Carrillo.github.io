@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What attr_accessor do?"
-date:   2017-08-09 16:51:48 +0000
+date:   2017-08-09 12:51:48 -0400
 ---
 
 
